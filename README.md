@@ -4,7 +4,7 @@
 
 DiagnoCare is an innovative healthcare assistance platform that leverages AI technology to tackle various healthcare-related challenges. The platform aims to provide timely diagnosis, personalized care, and better emergency responses, particularly for underserved populations.
 
-**Problem Statement**
+**Problem Statement :** 
 
 Despite advancements in technology, healthcare systems face several persistent challenges:
 - Timely Diagnosis : Delayed diagnoses due to limited access to specialists and slow symptom analysis.
@@ -12,12 +12,14 @@ Despite advancements in technology, healthcare systems face several persistent c
 - Emergency Response : Difficulty in locating nearby hospitals during emergencies and lack of integrated SOS alert mechanisms.
 - Communication Gaps : Absence of a unified platform for seamless communication between patients and doctors.
 
-**Our Solution : DiagnoCare**
+**Solution : DiagnoCare**
+
 DiagnoCare seeks to improve medical accessibility through intelligent automation and patient-centered care, highlighting:
 - **AI diagnostics** for pneumonia detection
 - **Personalized health suggestions** based on health metrics
 - **Emergency response** via geolocation for hospital mapping
 The platform showcases the effectiveness of integrated AI healthcare solutions, especially in resource-constrained settings.
+
 
 
 **Technology Stack Utilization**
@@ -51,6 +53,7 @@ FPDF : Library for generating PDF reports containing diagnosis and health summar
 Google Gemini API : Integrated for advanced AI functionalities.
 
 Pyttsx3 : Text-to-speech library used for providing audio assistance to users.
+
 
 
 **Key Features and Functionality**
@@ -88,6 +91,7 @@ Generates personalized diet plans based on individual health metrics and prefere
 Quick access to emergency services with a built-in hospital locator, ensuring rapid response during critical situations.
 
 
+
 **Code Flow Summary**
 
 1.User Initialization : The application launches and displays the main user interface.
@@ -100,9 +104,11 @@ Quick access to emergency services with a built-in hospital locator, ensuring ra
 
 5.Engagement with AI Features : Users interact with AI for diagnostics and health tips.
 
+
 **Output :** https://drive.google.com/file/d/1NZhk26Uo_hPaj-74GZxQuUemYrIhi3_b/view?usp=sharing
 
-**Future Enhancements**
+
+**Future Enhancements :**
 - **Expansion of AI capabilities** to cover more medical conditions.
  
 - **Mobile Application Development** for broader accessibility.
@@ -110,7 +116,8 @@ Quick access to emergency services with a built-in hospital locator, ensuring ra
 - **Integration of telehealth services** to enhance remote consultations.
   
 
-**Setup Instructions**
+**Setup Instructions :**
+
 To set up the DiagnoCare platform, follow these steps:
 
 1. Prerequisites : Ensure all necessary software and packages are installed.
