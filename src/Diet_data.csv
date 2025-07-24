@@ -1,0 +1,71 @@
+age,bmi,condition,diet_type
+25,22,No Condition,Balanced
+25,28,Hypertension,Low Sodium
+25,26,Diabetes,Low Carb
+25,24,High Cholesterol,Low Fat
+25,29,Asthma,Low Sugar
+25,31,Obesity,Low Calorie
+25,27,Heart Disease,Heart Healthy
+45,30,Diabetes,Low Carb
+45,28,No Condition,Balanced
+45,32,Hypertension,Low Salt
+45,29,High Cholesterol,Low Fat
+45,27,Asthma,Low Sugar
+45,34,Obesity,Low Calorie
+45,31,Heart Disease,Heart Healthy
+60,28,Hypertension,Low Sodium
+60,30,No Condition,Balanced
+60,29,Diabetes,Low Carb
+60,27,High Cholesterol,Low Fat
+60,31,Asthma,Low Sugar
+60,36,Obesity,Low Calorie
+60,35,Heart Disease,Heart Healthy
+35,18,No Condition,High Calorie
+35,27,Hypertension,Low Salt
+35,25,Diabetes,Low Carb
+35,26,High Cholesterol,Low Fat
+35,24,Asthma,Low Sugar
+35,33,Obesity,Low Calorie
+35,30,Heart Disease,Heart Healthy
+50,26,High Cholesterol,Low Fat
+50,25,No Condition,Balanced
+50,30,Hypertension,Low Sodium
+50,29,Diabetes,Low Sugar
+50,33,Asthma,Low Salt
+50,35,Obesity,Low Calorie
+50,34,Heart Disease,Heart Healthy
+32,29,No Condition,Balanced
+32,28,Hypertension,Low Salt
+32,30,Diabetes,Low Carb
+32,27,High Cholesterol,Low Fat
+32,26,Asthma,Low Sugar
+32,33,Obesity,Low Calorie
+32,31,Heart Disease,Heart Healthy
+28,31,Diabetes,Low Sugar
+28,26,No Condition,Balanced
+28,30,Hypertension,Low Sodium
+28,27,High Cholesterol,Low Fat
+28,29,Asthma,Low Sugar
+28,32,Obesity,Low Calorie
+28,34,Heart Disease,Heart Healthy
+42,33,Hypertension,Low Salt
+42,28,No Condition,Balanced
+42,31,Diabetes,Low Carb
+42,29,High Cholesterol,Low Fat
+42,30,Asthma,Low Sugar
+42,36,Obesity,Low Calorie
+42,35,Heart Disease,Heart Healthy
+39,20,No Condition,High Protein
+39,27,Hypertension,Low Salt
+39,26,Diabetes,Low Carb
+39,25,High Cholesterol,Low Fat
+39,24,Asthma,Low Sugar
+39,32,Obesity,Low Calorie
+39,34,Heart Disease,Heart Healthy
+65,27,High Cholesterol,Heart Healthy
+65,25,No Condition,Balanced
+65,30,Hypertension,Low Sodium
+65,28,Diabetes,Low Carb
+65,29,Asthma,Low Sugar
+65,34,Obesity,Low Calorie
+65,35,Heart Disease,Heart Healthy
