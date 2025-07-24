@@ -105,7 +105,7 @@ Quick access to emergency services with a built-in hospital locator, ensuring ra
 5.Engagement with AI Features : Users interact with AI for diagnostics and health tips.
 
 
-**Output :** https://drive.google.com/file/d/1NZhk26Uo_hPaj-74GZxQuUemYrIhi3_b/view?usp=sharing
+**Demo Output :** https://drive.google.com/file/d/1NZhk26Uo_hPaj-74GZxQuUemYrIhi3_b/view?usp=sharing
 
 
 **Future Enhancements :**
