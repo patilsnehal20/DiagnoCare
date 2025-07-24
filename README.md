@@ -1,9 +1,11 @@
 **DiagnoCare : Comprehensive AI-Powered Healthcare Assistance Platform**
 
 **Overview**
+
 DiagnoCare is an innovative healthcare assistance platform that leverages AI technology to tackle various healthcare-related challenges. The platform aims to provide timely diagnosis, personalized care, and better emergency responses, particularly for underserved populations.
 
 **Problem Statement**
+
 Despite advancements in technology, healthcare systems face several persistent challenges:
 - Timely Diagnosis : Delayed diagnoses due to limited access to specialists and slow symptom analysis.
 - Personalized Care : Generic health recommendations that fail to account for individual factors, leading to ineffective care.
@@ -98,6 +100,7 @@ Quick access to emergency services with a built-in hospital locator, ensuring ra
 
 5.Engagement with AI Features : Users interact with AI for diagnostics and health tips.
 
+**Output :** https://drive.google.com/file/d/1NZhk26Uo_hPaj-74GZxQuUemYrIhi3_b/view?usp=sharing
 
 **Future Enhancements**
 - **Expansion of AI capabilities** to cover more medical conditions.
